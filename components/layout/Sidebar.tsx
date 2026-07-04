@@ -17,7 +17,7 @@ import {
 import { cn } from "@/lib/utils";
 
 const navItems = [
-  { href: "/", label: "Overview", icon: LayoutGrid },
+  { href: "/overview", label: "Overview", icon: LayoutGrid },
   { href: "/", label: "AI Copilot", icon: Sparkles, isSame: true, hideIfHome: true },
   { href: "/inventory", label: "Inventory", icon: Package },
   { href: "/recommendations", label: "Recommendations", icon: ListChecks },

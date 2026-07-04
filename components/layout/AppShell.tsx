@@ -13,7 +13,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
         {children}
       </main>
 
-      <CopilotPanel variant="pinned" />
+      {/* <CopilotPanel/> */}
       <MobileNav />
     </div>
   );
