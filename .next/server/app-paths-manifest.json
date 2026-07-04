@@ -1,0 +1,11 @@
+{
+  "/page": "app/page.js",
+  "/inventory/page": "app/inventory/page.js",
+  "/reports/page": "app/reports/page.js",
+  "/recommendations/page": "app/recommendations/page.js",
+  "/analytics/page": "app/analytics/page.js",
+  "/transfers/page": "app/transfers/page.js",
+  "/aging/page": "app/aging/page.js",
+  "/notices/page": "app/notices/page.js",
+  "/settings/page": "app/settings/page.js"
+}
